@@ -11,8 +11,8 @@
 Jurnal Kebun Kampus merupakan aplikasi yang dirancang untuk membantu pencatatan kegiatan perawatan tanaman di lingkungan kampus. Aplikasi ini akan dikembangkan secara bertahap menggunakan Kotlin Multiplatform.
 
 ## Anggota Kelompok
-1. Bela Citra Permata Sari— 144140051
-2. Divania Rosanti Carfiogriffa Munthe — NIM: 124140027
+1. Bela Citra Permata Sari — 144140051
+2. Divania Rosanti Carfiogriffa Munthe — 124140027
 
 ## Ketua Kelompok
 Bela Citra Permata Sari
