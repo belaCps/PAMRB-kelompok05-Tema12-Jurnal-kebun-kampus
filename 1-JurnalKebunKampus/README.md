@@ -14,6 +14,9 @@ Jurnal Kebun Kampus merupakan aplikasi yang dirancang untuk membantu pencatatan 
 1. Bela Citra Permata Sari — 144140051
 2. Divania Rosanti Carfiogriffa Munthe — 124140027
 
+## Screenshot Hasil
+
+
 ## Ketua Kelompok
 Bela Citra Permata Sari
 
