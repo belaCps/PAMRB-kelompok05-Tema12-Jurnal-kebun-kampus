@@ -1,0 +1,4 @@
+com.example.jurnalkebunkampus.shared-androidMain-0 C:\Users\bcitr\Downloads\PAMRB-kelompok05-Tema12-Jurnal-kebun-kampus-main\Praktikum1\shared\build\generated\updated_navigation_xml\androidMain\res
+com.example.jurnalkebunkampus.shared-packageAndroidMainResources-1 C:\Users\bcitr\Downloads\PAMRB-kelompok05-Tema12-Jurnal-kebun-kampus-main\Praktikum1\shared\build\intermediates\incremental\androidMain\packageAndroidMainResources\merged.dir
+com.example.jurnalkebunkampus.shared-packageAndroidMainResources-2 C:\Users\bcitr\Downloads\PAMRB-kelompok05-Tema12-Jurnal-kebun-kampus-main\Praktikum1\shared\build\intermediates\incremental\androidMain\packageAndroidMainResources\stripped.dir
+com.example.jurnalkebunkampus.shared-packageAndroidMainResources-3 C:\Users\bcitr\Downloads\PAMRB-kelompok05-Tema12-Jurnal-kebun-kampus-main\Praktikum1\shared\build\intermediates\packaged_res\androidMain\packageAndroidMainResources\res
