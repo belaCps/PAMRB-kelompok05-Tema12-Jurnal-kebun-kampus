@@ -41,6 +41,7 @@ Hasil tersebut menunjukkan bahwa data jurnal berhasil diambil dan perubahan stat
 
 ### Pembagian Tugas
 Sesuaikan bagian ini berdasarkan kontribusi masing-masing anggota kelompok.
+
 Bela Citra: 
 - Membuat model data Tanaman, JurnalPerawatan, dan StatusJurnal. 
 - Membuat extension function untuk label status dan ringkasan jurnal.
