@@ -15,7 +15,7 @@ Jurnal Kebun Kampus merupakan aplikasi yang dirancang untuk membantu pencatatan 
 2. Divania Rosanti Carfiogriffa Munthe — 124140027
 
 ## Screenshot Hasil
-![Tampilan aplikasi](screenshots/Screenshot1.png)
+![Tampilan aplikasi](Screenshot1.png)
 
 ## Ketua Kelompok
 Bela Citra Permata Sari
