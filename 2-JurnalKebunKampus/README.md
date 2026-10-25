@@ -41,12 +41,13 @@ Hasil tersebut menunjukkan bahwa data jurnal berhasil diambil dan perubahan stat
 
 ### Pembagian Tugas
 Sesuaikan bagian ini berdasarkan kontribusi masing-masing anggota kelompok.
-- Bela Citra: 
+
+Bela Citra: 
 - Membuat model data Tanaman, JurnalPerawatan, dan StatusJurnal. 
 - Membuat extension function untuk label status dan ringkasan jurnal.
 - Menerapkan Coroutines dan Flow untuk simulasi perubahan status jurnal.
 
-- Divania:
+Divania:
 - Membuat interface Sumber<T> dan implementasi SumberJurnalPerawatan.
 - Membuat dan menjalankan pengujian melalui MainTest.kt.
 - Menyusun dokumentasi model data di README.
