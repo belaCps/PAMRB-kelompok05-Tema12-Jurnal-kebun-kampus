@@ -1,10 +1,28 @@
+import org.jetbrains.compose.desktop.application.dsl.TargetFormat
+
 plugins {
-    // this is necessary to avoid the plugins to be loaded multiple times
-    // in each subproject's classloader
-    alias(libs.plugins.androidApplication) apply false
-    alias(libs.plugins.androidMultiplatformLibrary) apply false
-    alias(libs.plugins.composeMultiplatform) apply false
-    alias(libs.plugins.composeCompiler) apply false
-    alias(libs.plugins.kotlinJvm) apply false
-    alias(libs.plugins.kotlinMultiplatform) apply false
+    alias(libs.plugins.kotlinJvm)
+    alias(libs.plugins.composeMultiplatform)
+    alias(libs.plugins.composeCompiler)
+}
+
+dependencies {
+    implementation(project(":shared"))
+
+    implementation(compose.desktop.currentOs)
+    implementation(libs.kotlinx.coroutinesSwing)
+
+    implementation(libs.compose.uiToolingPreview)
+}
+
+compose.desktop {
+    application {
+        mainClass = "com.example.jurnalkebunkampus.MainKt"
+
+        nativeDistributions {
+            targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
+            packageName = "com.example.jurnalkebunkampus"
+            packageVersion = "1.0.0"
+        }
+    }
 }
